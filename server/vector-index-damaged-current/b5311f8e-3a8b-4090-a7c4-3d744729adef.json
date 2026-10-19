@@ -1,0 +1,1 @@
+{"repo":"expressjs/express","path":"examples/content-negotiation/db.js","chunkIndex":0,"text":"'use strict'\n\nvar users = [];\n\nusers.push({ name: 'Tobi' });\nusers.push({ name: 'Loki' });\nusers.push({ name: 'Jane' });\n\nmodule.exports = users;\n"}
